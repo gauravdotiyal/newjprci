@@ -67,6 +67,7 @@ EXPECTED_JAYPORECI_VERSION=latest
 
 # Change the version in the next line to whatever you want if you
 # would like to upgrade to a different version of JayporeCI.
-EXPECTED_JAYPORECI_VERSION=0.2.31
+EXPECTED_JAYPORECI_VERSION=latest 
 
 ("$@")
+  
